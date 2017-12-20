@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: f0dc9ab77503c9344be49d7cbde7b0dd
+timeCreated: 1489372459
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: Eyes
+    100006: Head
+    100008: Hip
+    100010: LeftAnkle
+    100012: LeftElbow
+    100014: LeftElbow 1
+    100016: LeftFoot
+    100018: LeftFoot 1
+    100020: LeftForearm
+    100022: LeftHand
+    100024: leftHand
+    100026: LeftHip
+    100028: LeftHip 1
+    100030: LeftLeg
+    100032: LeftLeg 1
+    100034: LeftShoulder
+    100036: LeftShoulderJoint
+    100038: LeftUpperArm
+    100040: LeftWrist
+    100042: Monitor
+    100044: Mouth
+    100046: Neck
+    100048: RightAnkle
+    100050: RightElbow
+    100052: RightElbow 1
+    100054: RightFoot
+    100056: RightFoot 1
+    100058: RightForearm
+    100060: RightHand
+    100062: RightHand 1
+    100064: RightHip
+    100066: RightHip 1
+    100068: RightLeg
+    100070: RightLeg 1
+    100072: RightShoulder2
+    100074: RightShoulderJoint
+    100076: RightUpperArm
+    100078: RightWrist
+    100080: Screen
+    100082: Shoulders
+    100084: Spine
+    100086: UpperBody
+    400000: Body
+    400002: //RootNode
+    400004: Eyes
+    400006: Head
+    400008: Hip
+    400010: LeftAnkle
+    400012: LeftElbow
+    400014: LeftElbow 1
+    400016: LeftFoot
+    400018: LeftFoot 1
+    400020: LeftForearm
+    400022: LeftHand
+    400024: leftHand
+    400026: LeftHip
+    400028: LeftHip 1
+    400030: LeftLeg
+    400032: LeftLeg 1
+    400034: LeftShoulder
+    400036: LeftShoulderJoint
+    400038: LeftUpperArm
+    400040: LeftWrist
+    400042: Monitor
+    400044: Mouth
+    400046: Neck
+    400048: RightAnkle
+    400050: RightElbow
+    400052: RightElbow 1
+    400054: RightFoot
+    400056: RightFoot 1
+    400058: RightForearm
+    400060: RightHand
+    400062: RightHand 1
+    400064: RightHip
+    400066: RightHip 1
+    400068: RightLeg
+    400070: RightLeg 1
+    400072: RightShoulder2
+    400074: RightShoulderJoint
+    400076: RightUpperArm
+    400078: RightWrist
+    400080: Screen
+    400082: Shoulders
+    400084: Spine
+    400086: UpperBody
+    4300000: Body
+    4300002: Monitor
+    4300004: Screen
+    4300006: Eyes
+    4300008: Mouth
+    4300010: Shoulders
+    4300012: RightShoulderJoint
+    4300014: RightUpperArm
+    4300016: RightElbow
+    4300018: RightForearm
+    4300020: RightHand
+    4300022: LeftShoulderJoint
+    4300024: LeftUpperArm
+    4300026: LeftElbow
+    4300028: LeftForearm
+    4300030: leftHand
+    4300032: Hip
+    4300034: LeftHip
+    4300036: LeftLeg
+    4300038: LeftFoot
+    4300040: RightHip
+    4300042: RightLeg
+    4300044: RightFoot
+    7400000: Wave
+    7400002: Idle
+    7400004: Emphasis
+    7400006: Sulk
+    7400008: Run
+    9500000: //RootNode
+    13700000: Body
+    13700002: Eyes
+    13700004: Hip
+    13700006: LeftElbow 1
+    13700008: LeftFoot
+    13700010: LeftForearm
+    13700012: leftHand
+    13700014: LeftHip 1
+    13700016: LeftLeg 1
+    13700018: LeftShoulderJoint
+    13700020: LeftUpperArm
+    13700022: Monitor
+    13700024: Mouth
+    13700026: RightElbow 1
+    13700028: RightFoot
+    13700030: RightForearm
+    13700032: RightHand 1
+    13700034: RightHip 1
+    13700036: RightLeg 1
+    13700038: RightShoulderJoint
+    13700040: RightUpperArm
+    13700042: Screen
+    13700044: Shoulders
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wave
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/LeftHip 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1/LeftFoot
+        weight: 1
+      - path: Body/Hip/RightHip 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1/RightFoot
+        weight: 1
+      - path: Body/Monitor
+        weight: 1
+      - path: Body/Monitor/Screen
+        weight: 1
+      - path: Body/Monitor/Screen/Eyes
+        weight: 1
+      - path: Body/Monitor/Screen/Mouth
+        weight: 1
+      - path: Body/Shoulders
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm/leftHand
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm/RightHand
+          1
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: Spine/LeftHip
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: Spine/RightHip
+        weight: 1
+      - path: Spine/RightHip/RightLeg
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle/RightFoot 1
+        weight: 1
+      - path: Spine/UpperBody
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist/LeftHand
+        weight: 1
+      - path: Spine/UpperBody/Neck
+        weight: 1
+      - path: Spine/UpperBody/Neck/Head
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 82
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/LeftHip 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1/LeftFoot
+        weight: 1
+      - path: Body/Hip/RightHip 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1/RightFoot
+        weight: 1
+      - path: Body/Monitor
+        weight: 1
+      - path: Body/Monitor/Screen
+        weight: 1
+      - path: Body/Monitor/Screen/Eyes
+        weight: 1
+      - path: Body/Monitor/Screen/Mouth
+        weight: 1
+      - path: Body/Shoulders
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm/leftHand
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm/RightHand
+          1
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: Spine/LeftHip
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: Spine/RightHip
+        weight: 1
+      - path: Spine/RightHip/RightLeg
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle/RightFoot 1
+        weight: 1
+      - path: Spine/UpperBody
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist/LeftHand
+        weight: 1
+      - path: Spine/UpperBody/Neck
+        weight: 1
+      - path: Spine/UpperBody/Neck/Head
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emphasis
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 243
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/LeftHip 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1/LeftFoot
+        weight: 1
+      - path: Body/Hip/RightHip 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1/RightFoot
+        weight: 1
+      - path: Body/Monitor
+        weight: 1
+      - path: Body/Monitor/Screen
+        weight: 1
+      - path: Body/Monitor/Screen/Eyes
+        weight: 1
+      - path: Body/Monitor/Screen/Mouth
+        weight: 1
+      - path: Body/Shoulders
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm/leftHand
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm/RightHand
+          1
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: Spine/LeftHip
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: Spine/RightHip
+        weight: 1
+      - path: Spine/RightHip/RightLeg
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle/RightFoot 1
+        weight: 1
+      - path: Spine/UpperBody
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist/LeftHand
+        weight: 1
+      - path: Spine/UpperBody/Neck
+        weight: 1
+      - path: Spine/UpperBody/Neck/Head
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sulk
+      takeName: Take 001
+      firstFrame: 244
+      lastFrame: 346
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/LeftHip 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1/LeftFoot
+        weight: 1
+      - path: Body/Hip/RightHip 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1/RightFoot
+        weight: 1
+      - path: Body/Monitor
+        weight: 1
+      - path: Body/Monitor/Screen
+        weight: 1
+      - path: Body/Monitor/Screen/Eyes
+        weight: 1
+      - path: Body/Monitor/Screen/Mouth
+        weight: 1
+      - path: Body/Shoulders
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm/leftHand
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm/RightHand
+          1
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: Spine/LeftHip
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: Spine/RightHip
+        weight: 1
+      - path: Spine/RightHip/RightLeg
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle/RightFoot 1
+        weight: 1
+      - path: Spine/UpperBody
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist/LeftHand
+        weight: 1
+      - path: Spine/UpperBody/Neck
+        weight: 1
+      - path: Spine/UpperBody/Neck/Head
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 347
+      lastFrame: 407
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hip
+        weight: 1
+      - path: Body/Hip/LeftHip 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1
+        weight: 1
+      - path: Body/Hip/LeftHip 1/LeftLeg 1/LeftFoot
+        weight: 1
+      - path: Body/Hip/RightHip 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1
+        weight: 1
+      - path: Body/Hip/RightHip 1/RightLeg 1/RightFoot
+        weight: 1
+      - path: Body/Monitor
+        weight: 1
+      - path: Body/Monitor/Screen
+        weight: 1
+      - path: Body/Monitor/Screen/Eyes
+        weight: 1
+      - path: Body/Monitor/Screen/Mouth
+        weight: 1
+      - path: Body/Shoulders
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm
+        weight: 1
+      - path: Body/Shoulders/LeftShoulderJoint/LeftUpperArm/LeftElbow 1/LeftForearm/leftHand
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm
+        weight: 1
+      - path: Body/Shoulders/RightShoulderJoint/RightUpperArm/RightElbow 1/RightForearm/RightHand
+          1
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: Spine/LeftHip
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Spine/LeftHip/LeftLeg/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: Spine/RightHip
+        weight: 1
+      - path: Spine/RightHip/RightLeg
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle
+        weight: 1
+      - path: Spine/RightHip/RightLeg/RightAnkle/RightFoot 1
+        weight: 1
+      - path: Spine/UpperBody
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist
+        weight: 1
+      - path: Spine/UpperBody/LeftShoulder/LeftElbow/LeftWrist/LeftHand
+        weight: 1
+      - path: Spine/UpperBody/Neck
+        weight: 1
+      - path: Spine/UpperBody/Neck/Head
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist
+        weight: 1
+      - path: Spine/UpperBody/RightShoulder2/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 16
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: beef22c4cba8b3e47aee108a4284163d
+timeCreated: 1489266565
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cocynx
+    100002: Elephant
+    100004: //RootNode
+    100006: Head
+    100008: HeadA
+    100010: HeadB
+    100012: joint10
+    100014: joint15
+    100016: joint20
+    100018: joint28
+    100020: joint43
+    100022: joint44
+    100024: joint5
+    100026: LeftEar_A
+    100028: LeftEar_B
+    100030: LeftEar_C
+    100032: LeftEarFlap_A
+    100034: LeftEye
+    100036: LeftFlap_B
+    100038: LeftForeLeg_A
+    100040: LeftForeLeg_B
+    100042: LeftForeLeg_C
+    100044: LeftForeLeg_D
+    100046: LeftHindLeg_A
+    100048: LeftHindLeg_B
+    100050: LeftHindLeg_C
+    100052: LeftHindLeg_D
+    100054: LowerSpine
+    100056: MidSpine
+    100058: Mouth
+    100060: Neck
+    100062: Pelvis
+    100064: RightEar_A
+    100066: RightEar_B
+    100068: RightEar_C
+    100070: RightEarFlap_A
+    100072: RightEye
+    100074: RightFlap_B
+    100076: RightForeLeg_A
+    100078: RightForeLeg_B
+    100080: RightHindLeg_A
+    100082: RightHindLeg_B
+    100084: RightHindLeg_C
+    100086: RightHindLeg_C 1
+    100088: RightHindLeg_D
+    100090: RightHindLeg_D 1
+    100092: TailA
+    100094: TailB
+    100096: Tailbone
+    100098: TrunkA
+    100100: TrunkB
+    100102: TrunkC
+    400000: Cocynx
+    400002: Elephant
+    400004: //RootNode
+    400006: Head
+    400008: HeadA
+    400010: HeadB
+    400012: joint10
+    400014: joint15
+    400016: joint20
+    400018: joint28
+    400020: joint43
+    400022: joint44
+    400024: joint5
+    400026: LeftEar_A
+    400028: LeftEar_B
+    400030: LeftEar_C
+    400032: LeftEarFlap_A
+    400034: LeftEye
+    400036: LeftFlap_B
+    400038: LeftForeLeg_A
+    400040: LeftForeLeg_B
+    400042: LeftForeLeg_C
+    400044: LeftForeLeg_D
+    400046: LeftHindLeg_A
+    400048: LeftHindLeg_B
+    400050: LeftHindLeg_C
+    400052: LeftHindLeg_D
+    400054: LowerSpine
+    400056: MidSpine
+    400058: Mouth
+    400060: Neck
+    400062: Pelvis
+    400064: RightEar_A
+    400066: RightEar_B
+    400068: RightEar_C
+    400070: RightEarFlap_A
+    400072: RightEye
+    400074: RightFlap_B
+    400076: RightForeLeg_A
+    400078: RightForeLeg_B
+    400080: RightHindLeg_A
+    400082: RightHindLeg_B
+    400084: RightHindLeg_C
+    400086: RightHindLeg_C 1
+    400088: RightHindLeg_D
+    400090: RightHindLeg_D 1
+    400092: TailA
+    400094: TailB
+    400096: Tailbone
+    400098: TrunkA
+    400100: TrunkB
+    400102: TrunkC
+    4300000: Elephant
+    4300002: LeftEye
+    4300004: RightEye
+    7400000: Roar
+    7400002: Idle
+    7400004: Floating
+    7400006: Default
+    9500000: //RootNode
+    13700000: Elephant
+    13700002: LeftEye
+    13700004: RightEye
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Roar
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Elephant
+        weight: 1
+      - path: Head/Elephant/LeftEye
+        weight: 1
+      - path: Head/Elephant/RightEye
+        weight: 1
+      - path: Pelvis
+        weight: 1
+      - path: Pelvis/Cocynx
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D/joint10
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D/joint15
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA/TailB
+        weight: 1
+      - path: Pelvis/LowerSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A/LeftFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint43
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint44
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A/RightFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC/joint28
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D/joint5
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1/joint20
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Elephant
+        weight: 1
+      - path: Head/Elephant/LeftEye
+        weight: 1
+      - path: Head/Elephant/RightEye
+        weight: 1
+      - path: Pelvis
+        weight: 1
+      - path: Pelvis/Cocynx
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D/joint10
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D/joint15
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA/TailB
+        weight: 1
+      - path: Pelvis/LowerSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A/LeftFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint43
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint44
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A/RightFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC/joint28
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D/joint5
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1/joint20
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Floating
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Elephant
+        weight: 1
+      - path: Head/Elephant/LeftEye
+        weight: 1
+      - path: Head/Elephant/RightEye
+        weight: 1
+      - path: Pelvis
+        weight: 1
+      - path: Pelvis/Cocynx
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D/joint10
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D/joint15
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA/TailB
+        weight: 1
+      - path: Pelvis/LowerSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A/LeftFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint43
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint44
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A/RightFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC/joint28
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D/joint5
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1/joint20
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Default
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Elephant
+        weight: 1
+      - path: Head/Elephant/LeftEye
+        weight: 1
+      - path: Head/Elephant/RightEye
+        weight: 1
+      - path: Pelvis
+        weight: 1
+      - path: Pelvis/Cocynx
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/LeftHindLeg_A/LeftHindLeg_B/LeftHindLeg_C/LeftHindLeg_D/joint10
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D
+        weight: 1
+      - path: Pelvis/Cocynx/RightHindLeg_A/RightHindLeg_B/RightHindLeg_C/RightHindLeg_D/joint15
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA
+        weight: 1
+      - path: Pelvis/Cocynx/Tailbone/TailA/TailB
+        weight: 1
+      - path: Pelvis/LowerSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/LeftEar_A/LeftEar_B/LeftEarFlap_A/LeftFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint43
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/Mouth/joint44
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEar_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/RightEar_A/RightEar_B/RightEarFlap_A/RightFlap_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/HeadA/HeadB/TrunkA/TrunkB/TrunkC/joint28
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/LeftForeLeg_A/LeftForeLeg_B/LeftForeLeg_C/LeftForeLeg_D/joint5
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1
+        weight: 1
+      - path: Pelvis/LowerSpine/MidSpine/Neck/RightForeLeg_A/RightForeLeg_B/RightHindLeg_C
+          1/RightHindLeg_D 1/joint20
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
